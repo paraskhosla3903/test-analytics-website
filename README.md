@@ -1,6 +1,6 @@
 # Test Analytics Website
 
-This is a prototype for an online Test Analytics Website, originally made for submission in HackMoL 3.0. 
+
 We are trying to build a website that is can be used to conduct examinations and quizzes at various levels. This will be a complete profile based system which will resemble social media in some ways.
 Your profile will have complete details of yours and may be linked with some of the payment methods, which will save you the hassle of long and lengthy registration processes for each test. 
 It will have deep analysis system which will give you each and every small detail of your performance, for example graphs, time consumed per question, accuracy rate etc. 
